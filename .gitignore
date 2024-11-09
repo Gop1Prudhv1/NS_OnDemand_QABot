@@ -1,0 +1,8 @@
+# .gitignore
+.venv/
+faiss_index.bin
+document_metadata.json
+# IDE specific files
+.idea/
+*.iml
+**/__pycache__/
